@@ -1,0 +1,14 @@
+.section1{
+	background:url("small_steps.png") center center repeat;
+}
+#title{
+	position:center;  
+}
+#info{
+	padding-left:20px;
+	display:flex;
+	flex-wrap:wrap;
+}
+.days{
+	padding-right:20px; 
+}
